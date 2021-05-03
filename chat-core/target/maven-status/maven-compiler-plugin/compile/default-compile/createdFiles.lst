@@ -1,0 +1,10 @@
+hu\alkfelj\dao\ChatRoomDAOimpl.class
+hu\alkfelj\dao\MessageDAO.class
+hu\alkfelj\dao\MessageDAOimpl.class
+hu\alkfelj\config\UrlConfiguration.class
+hu\alkfelj\dao\ChatRoomDAO.class
+hu\alkfelj\dao\UserDAOimpl.class
+hu\alkfelj\model\User.class
+hu\alkfelj\model\ChatRoom.class
+hu\alkfelj\dao\UserDAO.class
+hu\alkfelj\model\Message.class
